@@ -1334,17 +1334,6 @@
   <layoutList>
     <layout>
       <configItem>
-        <name>plbel</name>
-        <shortDescription>plbel</shortDescription>
-        <description>Polish - Belarusian</description>
-        <languageList>
-          <iso639Id>pol</iso639Id>
-        </languageList>
-      </configItem>
-      <variantList/>
-    </layout>
-    <layout>
-      <configItem>
         <name>us</name>
         <!-- Keyboard indicator for English layouts -->
         <shortDescription>en</shortDescription>
@@ -4564,6 +4553,16 @@
           </configItem>
         </variant>
       </variantList>
+    </layout>
+    <layout>
+      <configItem>
+        <name>plbel</name>
+        <shortDescription>plbel</shortDescription>
+        <description>Polish (Belarusian)</description>
+        <languageList>
+          <iso639Id>plbel</iso639Id>
+        </languageList>
+      </configItem>
     </layout>
     <layout>
       <configItem>
