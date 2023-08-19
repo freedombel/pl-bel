@@ -19,9 +19,14 @@ Modified Polish keyboard layout with Belarusian Latin letters for Windows and Li
 1. Clone this repository
 2. Copy symbols file `sudo cp ./pl-bel/linux/plbel /usr/share/X11/xkb/symbols`
 3. Copy rules files `sudo cp ./pl-bel/linux/*.{lst,xml} /usr/share/X11/xkb/rules`
-3.1 You can also modify rules files on your own, keep in mind that `evdev.xml` and `evdev.lst` should have identical changes with `base.xml` and `base.lst`
+
+Optional: You can also modify rules files on your own, keep in mind that `evdev.xml` and `evdev.lst` should have identical changes with `base.xml` and `base.lst`
+   
 To `evdev.lst` and `base.lst` add the following line under `! layout` section:
-`plbel           Polish (Belarusian)`
+```
+plbel           Polish (Belarusian)
+```
+
 To `evdev.xml` and `base.xml` add the following layout declaration inside `<layoutList></layoutList>` section:
 ```
     <layout>
