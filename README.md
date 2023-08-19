@@ -2,7 +2,7 @@
 Modified Polish keyboard layout with Belarusian Latin letters for Windows and Linux. This layout slightly differs from Belarusian (Latin) keyboard layout that is present in Linux distributions, mainly due to the need to keep polish `ż` and `ź` letters, therefore belarusian `ž` is moved to `AltGr+d`.
 
 ## Preview
-![preview](./static/preview.png)
+![preview](./.static/preview.png)
 
 ## Installation
 
