@@ -58,7 +58,7 @@ Windows and Linux requires either a restart or logout for the layout to work pro
 
 `AltGr+l` for `ł`
 
-!`AltGr+k` for `ĺ` This works only for Windows as Linux provides grave diacritic only for vowels
+`AltGr+k` for `ĺ`
 
 `AltGr+x` for `ź`
 
