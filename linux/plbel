@@ -11,7 +11,7 @@ xkb_symbols "basic" {
     key <AC01>  { [         a,          A,      aogonek,      Aogonek ] };
     key <AC02>  { [         s,          S,       sacute,       Sacute ] };
     key <AC03>  { [         d,          D,       zcaron,       Zcaron ] };
-    key <AC08>  { [         k,          K,       lgrave,       Lgrave ] };
+    key <AC08>  { [         k,          K,       lacute,       Lacute ] };
     key <AC09>  { [         l,          L,      lstroke,      Lstroke ] };
 
     key <AB01>  { [         z,          Z,    zabovedot,    Zabovedot ] };
